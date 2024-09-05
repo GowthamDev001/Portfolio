@@ -1,0 +1,70 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": " HTML, CSS, JavaScript, and React.js, which enables me to build modern, responsive, and user-friendly web applications."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Node.js, MongoDB, and Express.js, which allows me to develop robust, scalable, and efficient server-side applications."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI/UX Design",
+        "description": " Canva and Figma, enabling me to create visually appealing and user-centric designs.I design engaging graphics"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "FrameWorks",
+        "description": "Bootstrap and Tailwind CSS, which enhance my ability to create responsive and visually consistent web designs with more attarctive"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "CurioCampus",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Chatapp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "E-commerce",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "GT Software",
+        "author_designation": "Intership(MERN-Stack Developer),Coimabatore"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Front-End Developer",
+        "author_designation": "Unitedtechnology,Dharapuram"
+      }
+    ]
+  }
+  
